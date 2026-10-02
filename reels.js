@@ -16,6 +16,8 @@ window.SITE = {
 
 window.REELS = [
    { title: "The masjid is open", category: "Promo", file: "aic-masjid-is-open.mp4", poster: "aic-masjid-is-open.jpg" },
+   { title: "Hope", category: "Reminders", file: "hope.mp4", poster: "hope.jpg" },
+   { title: "Allah is with me", category: "Reminders", file: "allah-is-with-me.mp4", poster: "allah-is-with-me.jpg" },
   // Add your reels here. Newest at the top. Copy this block for each reel:
   //
   // {
