@@ -7,8 +7,8 @@
 
 window.SITE = {
   name: "Gen1 Solutions",
-  whatsapp: "",            // add your number with country code, no + or spaces, e.g. "923001234567"
-  email: "",               // add your email, e.g. "hello@gen1sol.com"
+  whatsapp: "923054559888",
+  email: "abdulaleem@gen1sol.com",
   instagram: "https://instagram.com/Gen1Solutions",
   linkedin: "https://linkedin.com/in/abdulaleemcreative",
   website: "https://gen1sol.com"
